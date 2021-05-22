@@ -1,0 +1,101 @@
+
+h1{
+text-align: center;
+color:black;
+background-color:yellow;
+font-family:cursive;
+font-style: italic;
+border-radius: 100px;
+
+
+
+}
+.f label{
+	display: block;
+     padding-bottom:10px;
+
+	
+}
+.f{
+	color:blue;
+	font-family:arial;
+	background-color:;
+	font-size:30px;
+
+
+}
+.f input {
+	background-color: yellow;
+	color:black;
+	font-size:20px;
+
+
+}
+
+}
+a:hover{
+	color:red;
+	
+}
+a{
+	color:black;
+	font-size: 30px; 
+	font-family:cursive;
+	padding-left:600px;
+
+}
+a:visited{
+	color: green;
+}
+h2{
+text-align: center;
+color:black;
+background-color:red;
+font-family:cursive;
+font-style: italic;
+border-radius: 10 00px;
+}
+::placeholder{
+	color: red;
+}
+button{
+	color: blue;
+	background-color: black;
+	font-size: 30px;
+}
+.login label{
+	display: block;
+	color: blue
+	width:100px;
+	height:20px;
+	padding-bottom: 20px;
+	
+}
+
+.login1{
+	color: GREEN;
+	text-align: center;
+	font-size: 40px;
+
+}
+.login{
+	color: green;
+	font-size: 30px;
+	
+
+
+}
+.login input{
+	background-color: blue;
+	color: red;
+	font-size: 40px;
+	width: 400px;
+	height: 40px;
+}
+.loginbutton input{
+	color: black;
+    background :red;
+	font-size:20px;
+
+
+}
